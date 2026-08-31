@@ -5,6 +5,5 @@
 
 ### Team members
 
-- Marl Jonson
 - Kwonjae Lee
 - Leon Seng
